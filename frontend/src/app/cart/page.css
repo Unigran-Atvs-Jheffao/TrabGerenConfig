@@ -1,0 +1,22 @@
+.served-cart-category{
+    margin: 1rem;
+    font-size: 20pt;
+}
+
+.fab-served-order {
+    position: fixed;
+    border: none;
+    top: 88dvh;
+    left: 96dvw;
+    width: 4rem;
+    height: 4rem;
+    background: var(--accent-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fab-served-order-image {
+    width: 2rem;
+}
