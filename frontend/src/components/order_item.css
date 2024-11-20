@@ -1,0 +1,44 @@
+.order-item-icon {
+    width: 96px;
+    height: 96px;
+    border-radius: 5px;
+}
+
+.order-item {
+    overflow: hidden;
+}
+
+.order-item-content {
+    display: flex;
+}
+
+.order-item-info {
+    padding: 0rem 0rem 0rem 1rem;
+    width: 100%;
+}
+
+
+.order-item-name-value {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.order-item-qnt {
+    text-align: right;
+    padding-top: 1rem;
+}
+
+.order-item-desc {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+
+.order-item-qnt > span {
+    padding: 0.25rem 1rem 0.25rem 1rem;
+    border: 2px solid var(--accent-color);
+    border-radius: 9px;
+}

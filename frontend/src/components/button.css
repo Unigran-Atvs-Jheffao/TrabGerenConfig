@@ -1,0 +1,7 @@
+.served-button {
+    background: var(--accent-color);
+    border-radius: 9px;
+    border: none;
+    padding: 8px;
+    color: white;
+}

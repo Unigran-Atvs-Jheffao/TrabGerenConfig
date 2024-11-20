@@ -1,0 +1,40 @@
+.served-appbar {
+    background: var(--accent-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.served-appbar-logo {
+    display: flex;
+    align-items: center;
+}
+
+.served-appbar-link {
+    text-decoration: none;
+}
+
+.served-title-text {
+    color: white;
+    font-size: 26pt;
+    padding-left: 1rem;
+}
+
+.served-appbar-icon {
+    height: 64px;
+    width: 64px;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.served-cart {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+}
+
+.served-cart-icon {
+    height: 32px;
+    width: 32px;
+}
